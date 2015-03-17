@@ -24,11 +24,12 @@ $app = new Illuminate\Foundation\Application;
 |
 */
 
-$env = $app->detectEnvironment(array(
-
-	'local' => array('homestead'),
-
-));
+$env = $app->detectEnvironment(function() {
+    if(isset($_SERVER['APPLICATION_ENV']) && ($_SERVER['APPLICATION_ENV'] == 'ec2-beanstalk')) {
+        return 'production';
+    }
+    return 'local';
+});
 
 /*
 |--------------------------------------------------------------------------

@@ -3,6 +3,7 @@
 composer
 zendframework
 VagrantConfig.json
+bootstrap/compiled.php
 /vendor
 .buildpath
 .htaccess

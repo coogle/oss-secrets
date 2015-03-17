@@ -1,23 +1,30 @@
 <?php
 
-class HomeController extends BaseController {
-
-	/*
-	|--------------------------------------------------------------------------
-	| Default Home Controller
-	|--------------------------------------------------------------------------
-	|
-	| You may wish to use controllers instead of, or in addition to, Closure
-	| based routes. That's great! Here is an example controller method to
-	| get you started. To route to this controller, just add the route:
-	|
-	|	Route::get('/', 'HomeController@showWelcome');
-	|
-	*/
-
-	public function showWelcome()
-	{
-		return View::make('hello');
-	}
-
+class HomeController extends BaseController 
+{
+    public function getIndex()
+    {
+        return \View::make('home.index');
+    }
+    
+    public function submitStory()
+    {
+        $validator = \Validator::make(\Input::all(), [
+           'companyName' => 'required|min:1',
+           'email' => 'email',
+           'message' => 'required' 
+        ]);
+        
+        if($validator->fails()) {
+            return \Response::json(['success' => false]);
+        }
+        
+        $story = new Story();
+        $story->company = \Input::get('companyName');
+        $story->email = \Input::get('email', null);
+        $story->story = \Input::get('message');
+        $story->save();
+        
+        return \Response::json(['success' => true]);
+    }
 }
