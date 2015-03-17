@@ -1,0 +1,11 @@
+!.gitignore
+.composer
+composer
+zendframework
+VagrantConfig.json
+/vendor
+.buildpath
+.htaccess
+.project
+.settings
+.vagrant

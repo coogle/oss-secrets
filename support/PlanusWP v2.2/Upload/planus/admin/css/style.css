@@ -1,0 +1,40 @@
+i.mce-i-icon {
+	font: 400 24px/1 dashicons;
+	padding: 0;
+	vertical-align: top;
+	speak: none;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	margin-left: -2px;
+	padding-right: 2px;
+}
+
+.mce-scrollable-content .mce-abs-layout {
+	overflow: hidden !important;
+}
+
+.mce-scrollable-content .mce-container-body {
+	overflow: hidden !important;
+}
+
+.mce-modal-shortcode-info p {
+	white-space: normal;
+}
+
+.mce-shortcodes-btn {
+	background: #e9e9e9 !important;
+	margin-left: 10px !important;
+}
+
+.mce-shortcodes-btn:hover {
+	background: #fafafa !important;
+}
+
+#setting_custom_css_theme {
+	display: none;
+}
+
+a:focus {
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}

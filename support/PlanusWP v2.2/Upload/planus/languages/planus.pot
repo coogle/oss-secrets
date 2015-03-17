@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PlanusWP\n"
+"POT-Creation-Date: 2014-04-25 20:53+0200\n"
+"PO-Revision-Date: 2014-04-25 20:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Pixelglow <contact@pixelglow.ro>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: E:\\CreativeMarket\\Planus\\PlanusWP - demo\\wp-content"
+"\\themes\\planus\\languages\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../category.php:17
+msgid "Category"
+msgstr ""
+
+#: ../comments.php:12
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:60
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:79
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:91
+msgid ""
+"Email will remain private. All fields are required. No html tags alowed."
+msgstr ""
+
+#: ../contact.php:44 ../section-contact.php:34
+msgid "Hello, you have an email from your website!"
+msgstr ""
+
+#: ../contact.php:45 ../section-contact.php:35
+msgid "Sender"
+msgstr ""
+
+#: ../contact.php:46 ../section-contact.php:36 ../section-contact.php:111
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:47 ../section-contact.php:37 ../section-contact.php:114
+msgid "Message"
+msgstr ""
+
+#: ../content.php:49
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../functions.php:206
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Edit comment"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:235
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:235
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:296
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:300
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../functions.php:302
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: ../functions.php:303
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: ../functions.php:316
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../includes/theme-options.php:34
+msgid "General Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:38
+msgid "Home Sections"
+msgstr ""
+
+#: ../includes/theme-options.php:42
+msgid "Welcome Section"
+msgstr ""
+
+#: ../includes/theme-options.php:46
+msgid "About Section"
+msgstr ""
+
+#: ../includes/theme-options.php:50
+msgid "Portfolio Section"
+msgstr ""
+
+#: ../includes/theme-options.php:54
+msgid "Services Section"
+msgstr ""
+
+#: ../includes/theme-options.php:58
+msgid "Testimonials Section"
+msgstr ""
+
+#: ../includes/theme-options.php:62
+msgid "Blog Section"
+msgstr ""
+
+#: ../includes/theme-options.php:66
+msgid "Contact Section"
+msgstr ""
+
+#: ../includes/theme-options.php:70
+msgid "Map Section"
+msgstr ""
+
+#: ../includes/theme-options.php:76
+msgid "Logo upload"
+msgstr ""
+
+#: ../includes/theme-options.php:77
+msgid ""
+"Use this field to upload your logo. This logo will be shown on the header "
+"bar of the theme. After uploading, you need to <strong>press the \"Send to "
+"OptionTree\" button</strong> in order to populate the input with the URI of "
+"that media."
+msgstr ""
+
+#: ../includes/theme-options.php:91
+msgid "White Logo Upload"
+msgstr ""
+
+#: ../includes/theme-options.php:92
+msgid ""
+"Here you can upload the white or light version of your logo meant to be used "
+"on darker backgrounds on the home screen. Also this logo will be used on "
+"dark menu."
+msgstr ""
+
+#: ../includes/theme-options.php:106
+msgid "Choose wich logo to display"
+msgstr ""
+
+#: ../includes/theme-options.php:107
+msgid ""
+"Please choose wich logo should be shown on your header. Please take in "
+"account your image choice for welcome screen background and menu style "
+"choice (white or black)."
+msgstr ""
+
+#: ../includes/theme-options.php:121
+msgid "Normal Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:126
+msgid "White Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:133
+msgid "Favicon upload (.ico)"
+msgstr ""
+
+#: ../includes/theme-options.php:134
+msgid "Use this field to upload your favicon in .ico format (16x16 px)"
+msgstr ""
+
+#: ../includes/theme-options.php:148
+msgid "Favicon upload (.png)"
+msgstr ""
+
+#: ../includes/theme-options.php:149
+msgid "Use this field to upload your favicon in .png format (16x16 px)"
+msgstr ""
+
+#: ../includes/theme-options.php:163
+msgid "Apple Touch Icon (.png)"
+msgstr ""
+
+#: ../includes/theme-options.php:164
+msgid ""
+"Use this field to upload the Apple touch icon in .png format (152x152 px)"
+msgstr ""
+
+#: ../includes/theme-options.php:178
+msgid "Windows 8 Tile Image (.png)"
+msgstr ""
+
+#: ../includes/theme-options.php:179
+msgid ""
+"Use this field to upload the Windows 8 Tile Icon icon in .png format "
+"(144x144 px)"
+msgstr ""
+
+#: ../includes/theme-options.php:193
+msgid "Windows 8 Tile Color"
+msgstr ""
+
+#: ../includes/theme-options.php:194
+msgid "Use this field to choose the color for the Windows 8 Tile."
+msgstr ""
+
+#: ../includes/theme-options.php:208
+msgid "Choose home menu style"
+msgstr ""
+
+#: ../includes/theme-options.php:235
+msgid "Footer Informations"
+msgstr ""
+
+#: ../includes/theme-options.php:236
+msgid "Use this field to write your disclaymer or copyrights on footer."
+msgstr ""
+
+#: ../includes/theme-options.php:250
+msgid "Footer Background Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:251
+msgid ""
+"Here you can set the background for footer. You can change also the style "
+"using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:265
+msgid "Sections"
+msgstr ""
+
+#: ../includes/theme-options.php:266
+msgid ""
+"Here you can set the order of all sections from the home page. Just drag and "
+"drop the items to adjust the order."
+msgstr ""
+
+#: ../includes/theme-options.php:280
+msgid "Section title on menu"
+msgstr ""
+
+#: ../includes/theme-options.php:281
+msgid ""
+"Here you can set the name of the section wich will be displayed on home page "
+"menu. Please note that if you leave it empty, the section will be omitted "
+"from menu."
+msgstr ""
+
+#: ../includes/theme-options.php:294
+msgid "Choose Section"
+msgstr ""
+
+#: ../includes/theme-options.php:352
+msgid "Welcome Screen logo"
+msgstr ""
+
+#: ../includes/theme-options.php:353
+msgid ""
+"This logo is a sign or mark wich you can show on the Welcome Screen. If don;"
+"t want it, you can leave it blank."
+msgstr ""
+
+#: ../includes/theme-options.php:367
+msgid "Welcome Screen Title"
+msgstr ""
+
+#: ../includes/theme-options.php:368
+msgid ""
+"This should be the main title of the website visible on the Welcome screen."
+msgstr ""
+
+#: ../includes/theme-options.php:382
+msgid "Welcome Screen Description"
+msgstr ""
+
+#: ../includes/theme-options.php:383
+msgid ""
+"Please be descriptive but short. This is a generic statement about you or "
+"your company."
+msgstr ""
+
+#: ../includes/theme-options.php:397
+msgid "Welcome Screen Background Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:398
+msgid ""
+"Here you can replace the image from the Welcome Screen. You can change also "
+"the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:412
+msgid "Show \"Quick Contact\" button on home screen"
+msgstr ""
+
+#: ../includes/theme-options.php:427
+msgid "Text for \"Quick Contact\" button"
+msgstr ""
+
+#: ../includes/theme-options.php:442
+msgid "Title"
+msgstr ""
+
+#: ../includes/theme-options.php:443
+msgid "Here you can insert the title for \"About Me\" section."
+msgstr ""
+
+#: ../includes/theme-options.php:457 ../includes/theme-options.php:665
+#: ../includes/theme-options.php:740 ../includes/theme-options.php:785
+#: ../includes/theme-options.php:815 ../includes/theme-options.php:875
+msgid "Background Settings"
+msgstr ""
+
+#: ../includes/theme-options.php:458
+msgid ""
+"Here you can set the background for the About Section. You can change also "
+"the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:472
+msgid "Upload Images"
+msgstr ""
+
+#: ../includes/theme-options.php:473
+msgid ""
+"Here you can add and upload your images to be seen on About Section. Please "
+"<strong>do not upload more than 3 images</strong>."
+msgstr ""
+
+#: ../includes/theme-options.php:487
+msgid "Image"
+msgstr ""
+
+#: ../includes/theme-options.php:503
+msgid "About Content"
+msgstr ""
+
+#: ../includes/theme-options.php:504
+msgid "Add your description here. You can use the options to style the text."
+msgstr ""
+
+#: ../includes/theme-options.php:518
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/theme-options.php:519
+msgid "Use the Add New button to add social icons to About section."
+msgstr ""
+
+#: ../includes/theme-options.php:533
+msgid "Social Profile"
+msgstr ""
+
+#: ../includes/theme-options.php:634
+msgid "Profile URL"
+msgstr ""
+
+#: ../includes/theme-options.php:650
+msgid "Title for Potfolio Section"
+msgstr ""
+
+#: ../includes/theme-options.php:651
+msgid ""
+"Here you can set the title for portfolio Section. By default the values is "
+"\"Portfolio\"."
+msgstr ""
+
+#: ../includes/theme-options.php:666
+msgid ""
+"Here you can set the background for the Portfolio Section. You can change "
+"also the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:680
+msgid "Show \"More work\" button"
+msgstr ""
+
+#: ../includes/theme-options.php:695
+msgid "Text for \"More work\" button"
+msgstr ""
+
+#: ../includes/theme-options.php:710
+msgid "Link for \"More work\" button"
+msgstr ""
+
+#: ../includes/theme-options.php:725
+msgid "Title for Services Section"
+msgstr ""
+
+#: ../includes/theme-options.php:726
+msgid ""
+"This title will be visible on the top of the Services section. Be short and "
+"descriptive."
+msgstr ""
+
+#: ../includes/theme-options.php:741
+msgid ""
+"Here you can set the background for the Services Section. You can change "
+"also the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:755
+msgid "Select the Services page"
+msgstr ""
+
+#: ../includes/theme-options.php:756
+msgid ""
+"Please select the Services page wich will be shown on thos section. You need "
+"to create a services page in order to be visible on the select field."
+msgstr ""
+
+#: ../includes/theme-options.php:770
+msgid "Ttitle for Testimonial Section"
+msgstr ""
+
+#: ../includes/theme-options.php:771
+msgid "Here goes the title for your Testimonial Section"
+msgstr ""
+
+#: ../includes/theme-options.php:786
+msgid ""
+"Here you can set the background for the Testimonials Section. You can change "
+"also the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:800
+msgid "Title for Blog Section"
+msgstr ""
+
+#: ../includes/theme-options.php:801
+msgid ""
+"This title will be visible on the top of the Blog section. Please be "
+"descriptive, but keep it short."
+msgstr ""
+
+#: ../includes/theme-options.php:816
+msgid ""
+"Here you can set the background for the Blog Section. You can change also "
+"the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:830
+msgid "Text for Blog Button"
+msgstr ""
+
+#: ../includes/theme-options.php:831
+msgid ""
+"This is the text for the button bellow blog posts. E.g. \"Read our blog\" or "
+"\"Read more articles\"."
+msgstr ""
+
+#: ../includes/theme-options.php:845
+msgid "Select Blog Page"
+msgstr ""
+
+#: ../includes/theme-options.php:846
+msgid "Select the page created by you as Blog page"
+msgstr ""
+
+#: ../includes/theme-options.php:860
+msgid "Title for Contact Section"
+msgstr ""
+
+#: ../includes/theme-options.php:861
+msgid "Here goes the title for your Contact Section."
+msgstr ""
+
+#: ../includes/theme-options.php:876
+msgid ""
+"Here you can set the background for the Contact Section. You can change also "
+"the style using all given controls."
+msgstr ""
+
+#: ../includes/theme-options.php:890
+msgid "Content"
+msgstr ""
+
+#: ../includes/theme-options.php:891
+msgid "Please add here the content you want to be shown on Contact Section."
+msgstr ""
+
+#: ../includes/theme-options.php:905
+msgid "Your email adress"
+msgstr ""
+
+#: ../includes/theme-options.php:906
+msgid ""
+"Add here you ermail adress where you want to receive the email from your "
+"website."
+msgstr ""
+
+#: ../includes/theme-options.php:920
+msgid "Email Subject"
+msgstr ""
+
+#: ../includes/theme-options.php:921
+msgid "Insert the subject of received emails."
+msgstr ""
+
+#: ../includes/theme-options.php:935
+msgid "Adress"
+msgstr ""
+
+#: ../includes/theme-options.php:936
+msgid ""
+"Insert your contact adress. This will be displayed under the \"map pin\" "
+"icon."
+msgstr ""
+
+#: ../includes/theme-options.php:950
+msgid "Phone Number"
+msgstr ""
+
+#: ../includes/theme-options.php:951
+msgid "Insert your phone number where your users can find you."
+msgstr ""
+
+#: ../includes/theme-options.php:965
+msgid "Select the Map page"
+msgstr ""
+
+#: ../includes/theme-options.php:966
+msgid ""
+"Please select the Map page wich will be shown on the section. You need to "
+"create a map page in order to be visible on the select field."
+msgstr ""
+
+#: ../includes/theme-setup.php:37
+msgid "Home Page Menu"
+msgstr ""
+
+#: ../includes/theme-setup.php:38
+msgid "Inner Pages Menu"
+msgstr ""
+
+#: ../section-contact.php:108
+msgid "Name"
+msgstr ""
+
+#: ../tag.php:17
+msgid "Tag:"
+msgstr ""
